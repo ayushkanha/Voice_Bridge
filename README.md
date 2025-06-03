@@ -31,7 +31,7 @@ VoiceBridge is a Streamlit-based web application that allows users to **translat
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/voicebridge.git
+   git clone https://github.com/ayushkanha/Voice_Bridge.git
    cd voicebridge
    ```
 
@@ -75,8 +75,7 @@ voicebridge/
 
 **Ayush Sahu**  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-💼 [Portfolio](https://yourportfolio.com)  
-📬 Open to collaboration, feedback, and ideas!
+
 
 ---
 
