@@ -1,4 +1,4 @@
-# # 🎙️ VoiceBridge - Multilingual Voice & Text Translator with Sentiment Analysis
+ # 🎙️ VoiceBridge - Multilingual Voice & Text Translator with Sentiment Analysis
 
 VoiceBridge is a Streamlit-based web application that allows users to **translate speech or text** between multiple languages and **analyze the emotional tone** of the message using sentiment analysis. The app features a clean and intuitive interface, making multilingual communication and tone detection easier than ever.
 
