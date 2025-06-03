@@ -1,15 +1,12 @@
 import streamlit as st 
 from deep_translator import GoogleTranslator
-from gtts import gTTS
-from pydub import AudioSegment
-import tempfile
+
 import os
 import speech_recognition as sr
 from transformers import pipeline as pl
 from streamlit_option_menu import option_menu
 import css
-from st_audiorec import st_audiorec
-import streamlit.components.v1 as components
+
 from voice import transcribe,text_to_speech
 from tone import tone
 import about
