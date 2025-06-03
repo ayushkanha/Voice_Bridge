@@ -56,9 +56,9 @@ voicebridge/
 │
 ├── app.py                # Main Streamlit app
 ├── about.py              # About page
-├── translator.py         # Translation logic
-├── sentiment_text.py     # Text sentiment analysis
-├── sentiment_voice.py    # Audio emotion detection
+├── voice.py         # Translation logic
+├── tone.py     # Text sentiment analysis
+├── css.py    # Custome style for streamlit compomponets by css injection
 ├── requirements.txt      # List of dependencies
 └── README.md             # This file
 ```
@@ -74,7 +74,7 @@ voicebridge/
 ## 👨‍💻 Author
 
 **Ayush Sahu**  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🔗 [LinkedIn](linkedin.com/in/ayush-kumar-sahu-299b8b23b)  
 
 
 ---
