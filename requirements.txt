@@ -1,0 +1,8 @@
+streamlit
+deep-translator
+gTTS
+pydub
+speechrecognition
+transformers
+streamlit-option-menu
+st-audiorec
