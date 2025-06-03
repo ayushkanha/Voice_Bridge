@@ -1,1 +1,91 @@
-# Voice_Bridge
+# # 🎙️ VoiceBridge - Multilingual Voice & Text Translator with Sentiment Analysis
+
+VoiceBridge is a Streamlit-based web application that allows users to **translate speech or text** between multiple languages and **analyze the emotional tone** of the message using sentiment analysis. The app features a clean and intuitive interface, making multilingual communication and tone detection easier than ever.
+
+---
+
+## 🚀 Features
+
+- 🗣️ **Speech to Text**: Converts audio input into text using the `speech_recognition` library.
+- 🌐 **Multilingual Translation**: Translates both text and audio using `deep_translator`'s Google Translate support.
+- 💬 **Sentiment Analysis**:
+  - For text: Uses Hugging Face Transformers to analyze sentiment.
+  - For voice: Utilizes a local audio emotion detection model.
+- 🧑‍💻 **User-Friendly Interface**: Built with Streamlit for seamless and interactive user experience.
+
+---
+
+## 🧠 Tech Stack
+
+| Functionality        | Technology |
+|----------------------|------------|
+| Frontend UI          | Streamlit  |
+| Speech Recognition   | `speech_recognition` |
+| Translation          | `deep_translator` (Google Translate) |
+| Text Sentiment       | Hugging Face Transformers |
+| Voice Sentiment      | Local Emotion Detection Model |
+
+---
+
+## 🔧 Installation
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/yourusername/voicebridge.git
+   cd voicebridge
+   ```
+
+2. **Install dependencies**  
+   It's recommended to use a virtual environment.
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the app**  
+   ```bash
+   streamlit run app.py
+   ```
+
+---
+
+## 📁 Project Structure
+
+```
+voicebridge/
+│
+├── app.py                # Main Streamlit app
+├── about.py              # About page
+├── translator.py         # Translation logic
+├── sentiment_text.py     # Text sentiment analysis
+├── sentiment_voice.py    # Audio emotion detection
+├── requirements.txt      # List of dependencies
+└── README.md             # This file
+```
+
+---
+
+## 📸 Screenshots
+
+*Coming soon...*
+
+---
+
+## 👨‍💻 Author
+
+**Ayush Sahu**  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+💼 [Portfolio](https://yourportfolio.com)  
+📬 Open to collaboration, feedback, and ideas!
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## ⭐️ Support
+
+If you like this project, please consider giving it a ⭐️ on GitHub!
