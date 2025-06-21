@@ -66,8 +66,10 @@ voicebridge/
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/a9586a9c-4f80-4333-8467-102297e00cf8)
 
-*Coming soon...*
+![image](https://github.com/user-attachments/assets/9661487d-b139-455e-87ff-f5ac4c2eeae2)
+
 
 ---
 
